@@ -1,0 +1,9 @@
+Web App Ideas
+
+1.)Interactive Calendar: Week by week. 10 slots can be open. I would like to build it so that users can submit data and have it display directly on the blog.
+
+
+2.)Profile page designed by voting(like board) Like StackOver flow, I would  like this app to use the full capacity of ratings and reviews. 
+
+
+3.)Simple Algorithm to advance profiles of app #2. Same thing as app idea above, except now I want to get a basic algorithm together for ranking achievement.
